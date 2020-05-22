@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://rocketseat.com.br/"><img src="https://img.shields.io/badge/developed%20by-Rocketseat-blueviolet"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-MDN-yellow"></a>
   <a href="https://github.com/PauloAlves8039/Javascript-Rocketseat/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-success"></a>
 </p>
 
